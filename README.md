@@ -1,6 +1,6 @@
 # AI-TennisTeaching
 
-This repository is associated with the paper titled "AI-Powered Intelligent Tennis Coaching System: Enhancing Personalized Instruction with Visual AI and LLM on Low-Cost Hardware". The paper proposes a low-cost, intelligent tennis coaching system that integrates visual AI and large language models (LLMs) to address instructional challenges in Chinese university tennis education.
+This repository is associated with the paper titled "AI-Powered Intelligent Tennis Coaching: Enhancing Personalized Instruction with Lightweight Temporal Network and LLMs on Low-Cost Hardware". The paper proposes a low-cost, intelligent tennis coaching system that integrates visual AI and large language models (LLMs) to address instructional challenges in Chinese university tennis education.
 
 The complete source code and video dataset used in the experiments will be made publicly available upon the paper's acceptance. These materials will include:
 
